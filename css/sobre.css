@@ -1,0 +1,58 @@
+body .sobre{
+	color: #333333;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+}
+
+.sobre h1 {
+	background-image: url(../img/sobre-background.jpg);
+    padding: 10px;
+}
+
+.sobre h2 {
+	border-bottom: 2px groove #333333;
+    margin-top: 30px;
+}
+
+.sobre p {
+    padding: 0 45px;
+    text-indent: 15px;
+}
+
+.sobre figure {
+	background-color: #F2EDED;
+	border: 1px double #ccc;
+	text-align: center;
+    padding: 15px;
+    margin: 30px;
+}
+
+.sobre figcaption {
+    margin-top: 10px;
+	font-style: italic;
+}
+
+.sobre #centro-distribuicao {
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+#rodape {
+    color: #777;
+    margin: 30px 0;
+    padding: 30px 0;
+}
+
+.sobre #familia-pelho {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#rodape img {
+    margin-right: 30px;
+    vertical-align: middle;
+    width: 94px;
+}
